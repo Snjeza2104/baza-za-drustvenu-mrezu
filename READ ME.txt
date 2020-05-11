@@ -1,22 +1,22 @@
-Ovaj CD prati diplomski rad studentice Snjeane Mijoševiæ na temu
-"Baza podataka za sveuèilišnu društvenu mreu", kod mentora izv. prof. dr. sc.
-Domagoja Matijeviæa i komentora Slobodana Jeliæa.
+Ovaj kod prati diplomski rad studentice SnjeÅ¾ane MijoÅ¡eviÄ‡ na temu
+"Baza podataka za sveuÄiliÅ¡nu druÅ¡tvenu mreÅ¾u", kod mentora izv. prof. dr. sc.
+Domagoja MatijeviÄ‡a i komentora Slobodana JeliÄ‡a.
 
-Prilozi na CD-u su objašnjeni u radu, a ovdje samo kratko navodimo:
+Prilozi su objaÅ¡njeni u radu, a ovdje samo kratko navodimo:
 
 aktivna.sql - kod aktivne baze
 
 povijesna.sql - kod povijesne baze
 
-grafickiPrikazMWB.mwb - grafièki prikaz modela baze koji se moe otvoriti i ureğivati u
+grafickiPrikazMWB.mwb - grafiÄki prikaz modela baze koji se moÅ¾e otvoriti i ureÄ‘ivati u
 MySQL Workbenchu
 
-grafickiPrikazPDF - PDF poster modela baze (sporo se uèitava)
+grafickiPrikazPDF - PDF poster modela baze (sporo se uÄitava)
 
-Posebnu zahvalu za ovaj rad dugujem asistentu Slobodanu Jeliæu koji me upuæivao i usmjeravao
-na koji naèin obraditi temu rada i na što staviti naglasak, te izv. prof. dr. sc. Domagoju
-Matijeviæu koji mi je savjetovao upisati kolegij Dizajniranje i modeliranje baze podataka,
-sa smjera Matematika i raèunarstvo.
+Posebnu zahvalu za ovaj rad dugujem asistentu Slobodanu JeliÄ‡u koji me upuÄ‡ivao i usmjeravao
+na koji naÄin obraditi temu rada i na Å¡to staviti naglasak, te izv. prof. dr. sc. Domagoju
+MatijeviÄ‡u koji mi je savjetovao upisati kolegij Dizajniranje i modeliranje baze podataka,
+sa smjera Matematika i raÄunarstvo.
 
 
-Snjeana Mijoševiæ
+SnjeÅ¾ana MijoÅ¡eviÄ‡
