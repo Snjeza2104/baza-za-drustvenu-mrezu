@@ -1,9 +1,3 @@
-Ovaj kod prati diplomski rad studentice Snježane Mijošević na temu
-"Baza podataka za sveučilišnu društvenu mrežu", kod mentora izv. prof. dr. sc.
-Domagoja Matijevića i komentora Slobodana Jelića.
-
-Prilozi su objašnjeni u radu, a ovdje samo kratko navodimo:
-
 aktivna.sql - kod aktivne baze
 
 povijesna.sql - kod povijesne baze
@@ -12,11 +6,3 @@ grafickiPrikazMWB.mwb - grafički prikaz modela baze koji se može otvoriti i ur
 MySQL Workbenchu
 
 grafickiPrikazPDF - PDF poster modela baze (sporo se učitava)
-
-Posebnu zahvalu za ovaj rad dugujem asistentu Slobodanu Jeliću koji me upućivao i usmjeravao
-na koji način obraditi temu rada i na što staviti naglasak, te izv. prof. dr. sc. Domagoju
-Matijeviću koji mi je savjetovao upisati kolegij Dizajniranje i modeliranje baze podataka,
-sa smjera Matematika i računarstvo.
-
-
-Snježana Mijošević
