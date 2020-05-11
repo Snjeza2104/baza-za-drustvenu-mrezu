@@ -3,8 +3,9 @@ aktivna.sql - kod aktivne baze
 
 povijesna.sql - kod povijesne baze
 
-grafickiPrikazMWB.mwb - graficki prikaz modela baze koji se moze otvoriti i ureivati u
+grafickiPrikazMWB.mwb - graficki prikaz modela baze koji se mo≈æe otvoriti i ure√∞ivati u
 MySQL Workbenchu
 
-grafickiPrikazPDF - PDF poster modela baze (sporo se uËitava)
+grafickiPrikazPDF - PDF poster modela baze (sporo se uƒçitava)
+
 
