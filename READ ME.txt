@@ -1,22 +1,10 @@
-Ovaj CD prati diplomski rad studentice Snježane Mijoševiæ na temu
-"Baza podataka za sveuèilišnu društvenu mrežu", kod mentora izv. prof. dr. sc.
-Domagoja Matijeviæa i komentora Slobodana Jeliæa.
-
-Prilozi na CD-u su objašnjeni u radu, a ovdje samo kratko navodimo:
 
 aktivna.sql - kod aktivne baze
 
 povijesna.sql - kod povijesne baze
 
-grafickiPrikazMWB.mwb - grafièki prikaz modela baze koji se može otvoriti i ureðivati u
+grafickiPrikazMWB.mwb - graficki prikaz modela baze koji se moze otvoriti i ureðivati u
 MySQL Workbenchu
 
 grafickiPrikazPDF - PDF poster modela baze (sporo se uèitava)
 
-Posebnu zahvalu za ovaj rad dugujem asistentu Slobodanu Jeliæu koji me upuæivao i usmjeravao
-na koji naèin obraditi temu rada i na što staviti naglasak, te izv. prof. dr. sc. Domagoju
-Matijeviæu koji mi je savjetovao upisati kolegij Dizajniranje i modeliranje baze podataka,
-sa smjera Matematika i raèunarstvo.
-
-
-Snježana Mijoševiæ
